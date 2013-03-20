@@ -8,4 +8,10 @@ class StaticPagesController < ApplicationController
   def index
   end
 
+  def about
+  end
+
+  def about2
+  end
+
 end
